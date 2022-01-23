@@ -30,11 +30,10 @@ Editor: O'Reilly
   - Thinking About Web Crawlers Models
 
 * Chapter 11: Scraping JavaScript:
- - A Brief Introduction to JavScript
- - Ajax and Dynamic HTML
- - Handling Redirects
- - A Final Note on JavaScript
-
+   - A Brief Introduction to JavScript
+   - Ajax and Dynamic HTML
+   - Handling Redirects
+   - A Final Note on JavaScript
 
 
 * Chapter 14: Avoiding scraping traps:
@@ -43,4 +42,4 @@ Editor: O'Reilly
   - Processing Well-Formatted Text
   - Reading CAPTCHAs and Training Tesseract
   - Retrieving CAPTCHAs and Submitting Solutions 
-  - 
+  
